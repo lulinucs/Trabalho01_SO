@@ -15,7 +15,7 @@ O código fornecido no anexo inclui uma versão simples da interface usando cara
 ## Instruções de Uso
 
 1. Clone ou faça o download deste repositório para o seu sistema.
-2. Compile o código em um ambiente adequado (Windows ou Linux).
+2. Compile o código em um ambiente Linux.
 3. Execute o jogo e divirta-se!
 
 ## Contribuições
